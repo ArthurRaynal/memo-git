@@ -4,7 +4,7 @@
 	Git: local / Linux
 	GitHub: cloud / interagir avec des repo / microsoft / centralise
 	Explore : page des repo les plus d'actualité
-	fatfee/symfony : plus de stars (le plus de visibilité) / commit / contributors / forks / maintenu à jour / licence /  savoir les autorisations qu'on a    sur un repo
+	fatfee/symfony : plus de stars (le plus de visibilité) / commit / contributors / forks / maintenu à jour / licence /  savoir les autorisations qu'on a sur un repo
 	
 # 1-3- 	
 commit : version a un instant t du projet
